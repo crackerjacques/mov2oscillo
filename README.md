@@ -24,6 +24,8 @@ Windows
 ```
 download and add path to your system path or symbolic link to your windows dir
 https://ffmpeg.org/download.html
+
+How to add ffmpeg path: https://phoenixnap.com/kb/ffmpeg-windows
 ```
 
 MacOS 
