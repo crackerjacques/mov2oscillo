@@ -1,6 +1,9 @@
 # mov2oscillo
 Convert movie file to Oscillo Scope vector animation.
 
+![IMG](https://github.com/crackerjacques/mov2oscillo/blob/main/001.gif?raw=true)
+
+
 # 1
 
 download or clone this repo.
