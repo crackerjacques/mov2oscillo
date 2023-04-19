@@ -34,7 +34,7 @@ brew install ffmpeg
 ```
 Linux
 ```
-apt install ffmpeg
+sudo apt install ffmpeg
 ```
 
 __Python__
