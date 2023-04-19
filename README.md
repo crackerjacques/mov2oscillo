@@ -94,6 +94,9 @@ https://www.flux.audio/project/stereo-tool-freeware/
 # APPENDIX
 
 ■ ___mov2oscillo-tk.py___
+```
+pip install numpy pillow soundfile argparse tk
+```
 
 tkinter easy GUI implementation.
 
